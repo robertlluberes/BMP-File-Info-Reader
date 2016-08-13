@@ -16,7 +16,7 @@ You can make it better and read more information from a BMP File. This is only a
 
 Esta es una aplicación de consola de C # donde se puede abrir un archivo de imagen BMP como un archivo binario y leer la información, como la anchura, la altura y bits por píxel de la imagen.
 
-! [] (Https://teamgeekrd.files.wordpress.com/2016/08/bmp-info-reader.jpg?w=700 "Prueba")
+![](https://teamgeekrd.files.wordpress.com/2016/08/bmp-info-reader.jpg?w=700 "prueba")
 
 Se puede ver la estrutura de un archivo BMP aquí: http://www.ue.eti.pg.gda.pl/fpgalab/zadania.spartan3/zad_vga_struktura_pliku_bmp_en.html
 
