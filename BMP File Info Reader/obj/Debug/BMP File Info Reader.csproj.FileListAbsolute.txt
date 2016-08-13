@@ -1,0 +1,6 @@
+D:\0 Csharp\BMP File Info Reader\BMP File Info Reader\bin\Debug\BMP File Info Reader.exe.config
+D:\0 Csharp\BMP File Info Reader\BMP File Info Reader\bin\Debug\BMP File Info Reader.exe
+D:\0 Csharp\BMP File Info Reader\BMP File Info Reader\bin\Debug\BMP File Info Reader.pdb
+D:\0 Csharp\BMP File Info Reader\BMP File Info Reader\obj\Debug\BMP File Info Reader.csprojResolveAssemblyReference.cache
+D:\0 Csharp\BMP File Info Reader\BMP File Info Reader\obj\Debug\BMP File Info Reader.exe
+D:\0 Csharp\BMP File Info Reader\BMP File Info Reader\obj\Debug\BMP File Info Reader.pdb
