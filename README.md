@@ -12,7 +12,7 @@ You can make it better and read more information from a BMP File. This is only a
 
 ***
 
-# BMP Lector de archivos
+# BMP File Info Reader
 
 Esta es una aplicación de consola de C # donde se puede abrir un archivo de imagen BMP como un archivo binario y leer la información, como la anchura, la altura y bits por píxel de la imagen.
 
